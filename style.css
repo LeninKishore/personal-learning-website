@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    display:flex;
+    align-items: center;
+    padding:10px 20px 10px 20px;
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    background-color:rgb(81, 203, 203);
+    color:black;
+}
+.home{
+    padding: 50px 50px 0px 100px;
+    justify-content: space-between;
+    
+}
+  
+.bul{
+    margin-left: 30px;
+    font-weight:900;
+    font-style: normal;
+    margin-top: 50px;
+}
+.bul li{
+    margin-left:350px ;
+    list-style-type:disc;
+}
+.nav{
+    padding-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#sp{
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.container{
+   margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: antiquewhite;
+    margin-bottom: 30px;
+}
+.c1{
+ 
+   padding-top: 125px;
+   padding-right: 100px;
+    color:rgb(11, 20, 32);
+  
+    word-spacing: 6px;
+    align-items:center;
+   
+}
+.img{
+    width: 2400px;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+footer {
+    background-color: rgb(176, 163, 163);
+    color:black;
+    padding: 30px 0;
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 200px;
+       
+    
+}
+
+.con {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.col-md-4 {
+    width: calc(100% / 3);
+    padding: 0 15px;
+    box-sizing: border-box;
+    
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+#diff{
+    padding-right: 10px;
+    display:flex;
+    justify-content: center;
+   
+}
+
+.pic{
+    display: flex;
+    align-items: center;
+}
+ul li a {
+    color:black;
+    text-decoration: none;
+
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+#op{
+    padding-top: 40px;
+}
+
+.image{
+    padding-right: 13px;
+}
+
+.languages-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.language-container{
+    border: 2px solid #B6B5B5 ;
+    padding: 20px;
+    width: 500px;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.but{
+    
+    padding: 10px 20px;
+    font-size: 20px;
+    color: rgb(242, 18, 18);
+    
+}
+
+.but-div{
+    text-align: center;
+    padding-bottom: 20px;
+    box-shadow: #2125f4;
+}
+
+.tt{
+    background-color: transparent;
+    color: rgb(12, 12, 54);
+    border: 1px solid;
+    border-radius: 2px;
+    width: 100px;
+    height: 50px;
+    font-weight: 500;
+    
+    
+}
